@@ -1,6 +1,6 @@
-# Project Name
+# ReProTENSID
 
-![ReProTensid](ReProTENSID.png)
+![ReProTENSID](ReProTENSID.png)
 
 In collaboration with:
 
